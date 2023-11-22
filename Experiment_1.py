@@ -1,4 +1,4 @@
-#Write a program to demonstrate type checking of various data types and demonstrate the use of 
+#Write a program to demonstrate type checking of various data types and demonstrate the use of
 #following built in functions in python: abs(), len(), min(), round(), isalnum(), type().
 def demonstrate_built_in_functions():
     # Example variables of various data types
